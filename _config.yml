@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Anh On Rails
+title: Anh On Rails | Rails is fun
 email: me@anhonrails.com
 description: >- # this means to ignore newlines until "baseurl:"
   Let's have some fun with RoR
@@ -32,8 +32,44 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
+include:
+  - _pages
+
 footer:
   links:
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tuananh131001"
+
+author:
+  name   : "Anh Nguyen"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : ""
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://anhonrails.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tuananh131001"
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
