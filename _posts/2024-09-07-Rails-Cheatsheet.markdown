@@ -1,4 +1,10 @@
-#  Check for the existence of a value or the state of an object
+---
+layout: single
+title:  "Personal Ruby On Rails cheatsheet"
+date:   2024-09-07 10:18:59 +0700
+categories: rails
+---
+#  
 
 
 My quick cheatsheet:
