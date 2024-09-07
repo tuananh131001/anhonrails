@@ -40,10 +40,13 @@ footer:
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tuananh131001"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://github.com/tuananh131001"
 
 author:
   name   : "Anh Nguyen"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://avatars.githubusercontent.com/u/67695658?v=4"
   bio    : ""
   links:
     - label: "Website"
@@ -51,6 +54,9 @@ author:
       url: "https://anhonrails.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/tuananh131001"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://github.com/tuananh131001"
 
 
