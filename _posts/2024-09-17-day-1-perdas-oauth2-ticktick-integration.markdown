@@ -2,7 +2,7 @@
 layout: single
 title:  "Day 1 - Perdas - Oauth2 Ticktick integration"
 date:   2024-09-17 10:18:59 +0700
-categories: rails, perdas
+categories: rails perdas
 ---
 # Background
 
