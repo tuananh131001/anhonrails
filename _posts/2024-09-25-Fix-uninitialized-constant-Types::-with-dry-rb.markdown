@@ -13,7 +13,7 @@ Class Base
 end
 ```
 
-It raise an error `uninitialized constant Types`. This is wierd since I check the documents, it mentions the usage of Types::String, Types::Integer. After doing 
+It raise an error `uninitialized constant Types`. This is wierd since I check the documents, it mentions the usage of `Types::String`, `Types::Integer`. After checking 
 https://github.com/dry-rb/dry-types/issues/422
 
 then I modified to
