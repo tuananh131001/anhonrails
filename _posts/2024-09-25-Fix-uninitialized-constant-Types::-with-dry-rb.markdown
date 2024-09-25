@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Fix uninitialized constant Types:: with dry-rb"
-date:   2024-09-07 10:18:59 +0700
+date:   2024-09-25 23:45:00 +0700
 categories: rails dry perdas ticktick
 ---
 My project Perdas need to get task from TickTick Rest API. After getting the response , I use a gem calls dry-struct to initializee an object with validation for the JSON response 
