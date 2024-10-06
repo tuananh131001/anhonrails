@@ -1,12 +1,12 @@
 ---
 layout: single
-title:  "Enhance my ticktick productivity system"
-date:   2024-10-06 23:45:00 +0700
+title:  "Enhance my TickTick productivity system"
+date:   2024-10-06 12:27:00 +0700
 categories: ticktick
 ---
 
 # Background
-Ticktick is a powerful todolist management cross-platform application. But in my options, it is quite overhelm with features and bloat. Let me guide you to simplify the application and get out most of the todolist and get your job done with less time.
+TickTick is a powerful todolist management cross-platform application. But in my options, it is quite overhelm with features and bloat. Let me guide you to simplify the application and get out most of the todolist and get your job done with less time.
 
 # Minimal Setup
 
