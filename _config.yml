@@ -72,6 +72,7 @@ defaults:
       comments: true
       share: true
       related: true
+      ext: "md"
   # _pages
   - scope:
       path: "_pages"
